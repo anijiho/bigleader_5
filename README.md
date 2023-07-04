@@ -16,4 +16,5 @@
    안지호 _ <a href = 'https://public.tableau.com/app/profile/.26241588'> 지호의 태블로 퍼블릭 </a> <br>
    황주선 _ <a href = 'https://public.tableau.com/app/profile/hwang.joosun'> 주선의 태블로 퍼블릭</a> <br>
    강혜정 - <a href = 'https://public.tableau.com/app/profile/.69988380'> 혜정의 태블로 퍼블릭</a> <br>
+   정지원 - <a href = 'https://public.tableau.com/app/profile/.12116490'> 지원의 태블로 퍼블릭</a> <br>
 2. 미니 프로젝트 캐글 우주선 타이타닉 전처리를 팀원 나름대로 해보고 리뷰를 했다. <br/>
