@@ -18,3 +18,9 @@
    강혜정 - <a href = 'https://public.tableau.com/app/profile/.69988380'> 혜정의 태블로 퍼블릭</a> <br>
    정지원 - <a href = 'https://public.tableau.com/app/profile/.12116490'> 지원의 태블로 퍼블릭</a> <br>
 2. 미니 프로젝트 캐글 우주선 타이타닉 전처리를 팀원 나름대로 해보고 리뷰를 했다. <br/>
+<br/>
+<b>#7/16일 스터디</b> <br/>
+1. 꽃게 미니 프로젝트를 마무리 했다.<br/>
+2. SQL 시험을 대비해 각자 맡은 파트를 수행했다. <br/>
+
+
